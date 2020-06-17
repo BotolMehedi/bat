@@ -6,7 +6,7 @@
 
 </p>
 
-## 馃攳 ***About BBOMB***:
+## 馃攳 ***About BAT***:
 
 BAT is a python based script. You can use this tool for facebook account cracking. This tool works on both rooted Android device and Non-rooted Android device.
 
